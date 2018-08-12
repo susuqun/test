@@ -1,0 +1,4 @@
+git add <filename>
+git add *
+git commit -m "代码提交信息"
+git push origin master
